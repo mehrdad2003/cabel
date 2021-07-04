@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cabel/static/css/main.f4fd0b83.chunk.css",
+    "main.js": "/cabel/static/js/main.5b2f6588.chunk.js",
+    "main.js.map": "/cabel/static/js/main.5b2f6588.chunk.js.map",
+    "runtime-main.js": "/cabel/static/js/runtime-main.7ad7c6ed.js",
+    "runtime-main.js.map": "/cabel/static/js/runtime-main.7ad7c6ed.js.map",
+    "static/js/2.f494b69f.chunk.js": "/cabel/static/js/2.f494b69f.chunk.js",
+    "static/js/2.f494b69f.chunk.js.map": "/cabel/static/js/2.f494b69f.chunk.js.map",
+    "index.html": "/cabel/index.html",
+    "precache-manifest.fc212380ca665937a5a8b20ef2fc6098.js": "/cabel/precache-manifest.fc212380ca665937a5a8b20ef2fc6098.js",
+    "service-worker.js": "/cabel/service-worker.js",
+    "static/css/main.f4fd0b83.chunk.css.map": "/cabel/static/css/main.f4fd0b83.chunk.css.map",
+    "static/js/2.f494b69f.chunk.js.LICENSE.txt": "/cabel/static/js/2.f494b69f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/cabel/static/media/IRANSansWeb.bab5e043.ttf",
+    "static/media/svg-1.svg": "/cabel/static/media/svg-1.715313cd.svg",
+    "static/media/svg-2.svg": "/cabel/static/media/svg-2.ea85e7aa.svg",
+    "static/media/svg-3.svg": "/cabel/static/media/svg-3.b953e5b9.svg",
+    "static/media/video.mp4": "/cabel/static/media/video.2c8a532c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad7c6ed.js",
+    "static/js/2.f494b69f.chunk.js",
+    "static/css/main.f4fd0b83.chunk.css",
+    "static/js/main.5b2f6588.chunk.js"
+  ]
+}
